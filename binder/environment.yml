@@ -5,6 +5,5 @@ dependencies:
   - numpy
   - matplotlib
   - rise
-  - voila
   - pip:
     - jupyter-contrib-nbextensions
